@@ -1,0 +1,1 @@
+La pantalla tiene que tener dos areas, una de bienvenida y otra de login
