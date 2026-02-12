@@ -1,1 +1,1 @@
-La pantalla de login del usuario es con un código alfanumerico
+La pantalla de login del usuario debe constar de usuario y contraseña
