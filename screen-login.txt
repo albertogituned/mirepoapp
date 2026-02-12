@@ -1,0 +1,1 @@
+La pantalla de login del usuario debe constar de usuario y contraseña
